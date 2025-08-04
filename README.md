@@ -82,3 +82,11 @@ This simulates real-world process scheduling in operating systems.
 public void addLast(T element);
 public T remove(T element) throws EmptyCollectionException, ElementNotFoundException;
 public boolean contains(T element);
+
+
+## 🙏 Acknowledgments
+
+This project was developed as part of a course assignment for [202310-Spring 2023-ITSC-2214-001-Data Structures and Algorithms] at [UNC Charlotte].
+
+Project design, diagrams, and starter files were provided by [Dr. Qiong Cheng].
+
